@@ -1,0 +1,88 @@
+/* General Styles */
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(GraphicsandBackgrounds/imageedit_1_3055095008.png);
+    background-repeat: no-repeat;
+    background-position:center;  
+    background-size: cover;
+    background-attachment: fixed;
+    background-position-x: center;
+    background-position-y: center;
+    text-align: center;
+
+
+.scroll-box {
+    max-height:max-content; /* Adjust height as needed */
+    overflow-y: auto;  /* Enables vertical scrolling */
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background */
+    width: 80%;
+    margin: 20px auto;}
+
+
+ /* Header Styles */
+header {
+
+ text-align:center;
+    }
+
+/* Navigation Menu */
+nav {
+    display:flex;
+    justify-content: center;
+    text-align:center;
+    background-color: #444;
+    padding: 10px 0;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #ddd;
+    color: #444;
+}
+
+/* Main Content */
+main {
+    padding: 20px;
+
+}
+
+h1 {
+    color: black;
+}
+h2{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  color: black;
+}
+
+h17
+ {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  color: black;
+  text-align: center;
+ }
+
+h18{    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  color: black;
+  text-align: center;
+}
+}
